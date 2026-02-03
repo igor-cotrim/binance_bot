@@ -1,0 +1,26 @@
+# Ambiente virtual
+source/
+venv/
+.env
+
+# Arquivos de configuração sensíveis
+config.py
+*.env
+*.token
+
+# Arquivos Python gerados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
+
+# VSCode / IDEs
+.vscode/
+.idea/
+*.code-workspace
