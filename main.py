@@ -1,5 +1,5 @@
-from bot import BinanceListingsBot
+from bot import ListingsBot
 
 if __name__ == "__main__":
-    bot = BinanceListingsBot()
+    bot = ListingsBot()
     bot.run()
